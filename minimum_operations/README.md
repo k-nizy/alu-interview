@@ -1,12 +1,24 @@
+<<<<<<< HEAD
 
 # Minimum Operations Calculator
 
 
 
+=======
+# Minimum Operations Calculator
+
+
+
+>>>>>>> 320c34f (Add local changes including minimum_operations README)
 
 
 **An efficient algorithm to calculate the minimum number of copy-paste operations needed to achieve exactly n characters in a text file.**
 
+<<<<<<< HEAD
+=======
+[Problem Statement](#-problem-statement) • [ Quick Start](#-quick-start) • [ Algorithm](#-algorithm) • [Examples](#-examples) • [🔧 API Reference](#-api-reference)
+
+>>>>>>> 320c34f (Add local changes including minimum_operations README)
 
 
 ---
